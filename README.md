@@ -8,4 +8,4 @@
 
 ###The Dark Side of GIMP Theme (included with GIMP)  
 
-![alt text](https://raw.githubusercontent.com/Draekko-RAND/gimp-themes/master/screenshots/psdark.png "PS Dark icon theme")  
+![alt text](https://raw.githubusercontent.com/Draekko-RAND/gimp-icon-themes/master/screenshots/psdark.png "PS Dark icon theme")  
